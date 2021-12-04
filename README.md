@@ -1,5 +1,5 @@
 # CicekSepeti TestAutomation Project
-Bu ÇiçekSepeti Test Otomasyon projesidir. Bu projede 2 class içerisinde toplam 4 test senaryosu gerçekleşetirilmiştir. Projede Page Object Model kullanılmıştır.
+Bu ÇiçekSepeti Test Otomasyon projesidir. Bu projede 2 class içerisinde toplam 4 test senaryosu gerçekleşetirilmiştir. 
 
 ## **TEST CLASS 1**
 - ***Test 1 : Sepete Ürün Ekleme***
